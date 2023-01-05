@@ -1,5 +1,13 @@
 .App {
   text-align: center;
+  margin: 20px;
+  text-align: left;
+}
+.App>div {
+  margin-bottom: 10px;
+}
+.button {
+  margin-right: 8px;
 }
 
 .App-logo {
@@ -26,6 +34,9 @@
 
 .App-link {
   color: #61dafb;
+}
+.dropdown-label {
+  margin-right: 8px;
 }
 
 @keyframes App-logo-spin {
